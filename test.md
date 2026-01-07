@@ -1,4 +1,5 @@
 graph LR
+    
     %% --- クラス定義 (色とスタイルの設定) ---
     classDef structure fill:#f9f,stroke:#333,stroke-width:2px,color:black;
     classDef cell fill:#ff9,stroke:#333,stroke-width:2px,color:black;
